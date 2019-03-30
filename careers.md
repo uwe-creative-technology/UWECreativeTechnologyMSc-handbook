@@ -8,3 +8,26 @@ With a recognised skills shortage in the region, graduates from the MSc in Creat
 
 Past UWE Students from within Creative Technologies have found work with organisations and employers across the world including;
 The BBC, Disney (Lyft) Studios, IBM, E3, The Alacrity Foundation, Ministry of Defence, Nomensa, JISC, CX Partners amongst others, as well as research organisations, and their own startups and ventures. Several students have developed their professional practice within design, arts and music, and now record, exhibiting and perform internationally.
+
+### Links and resources for job hunting, opportunities and tips for portfolio and CV generation
+
+#### Places to job hunt
+ Bristol TechSpark Jobs [[https://techspark.co/jobs-board/]]
+ Bristol Media/ South West Creative Tech Jobs [[https://www.bristolmedia.co.uk/swcreativejobs]]
+ UWE Info Hub [[https://infohub.uwe.ac.uk/students/login?ReturnUrl=%2f]]
+ Adlib - Bristol recruitment consultants [[https://www.adlib-recruitment.co.uk]]
+ South West Game Dev Jobs [[https://www.facebook.com/groups/719197258116493/]]
+ CreativeApplications.net jobs board [[https://www.creativeapplications.net/job-board/]]
+
+#### Communities of creative technologists and designers
+
+ Bristol Tech Meetups [[https://www.meetup.com/find/tech/?allMeetups=false&radius=25&userFreeform=Bristol%2C+United+Kingdom&mcId=c1012724&mcName=Bristol%2C+England%2C+GB&sort=default]]
+ West of England Design Forum [[https://wedesignforum.co.uk]]
+ Creative Bath [[https://www.creativebath.org]]
+ Bristol Pervasive Media Studio events [[https://www.watershed.co.uk/studio/events]]
+ Bristol Games Hub [[https://bristolgameshub.com]]
+
+#### Job, portfolio and CV tips
+ UWE Careers and employability [[https://www1.uwe.ac.uk/students/careersandemployability.aspx]]
+ UWE Careers services [[https://www1.uwe.ac.uk/students/careersandemployability/careersservices/servicesforstudents.aspx]]
+
