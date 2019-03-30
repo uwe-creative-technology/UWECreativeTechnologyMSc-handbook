@@ -30,7 +30,7 @@ version : 0.01
  * Plagiarism
 6. Shared tools and discussion, informtaion spaces
 6. [Extra curricular course activities](extra-curricular.md)
-7. Opportunites and future destinations
+7. [Career Opportunites and future destinations](careers.md)
 8. Study advice
 9. Contacts and further reading
 
