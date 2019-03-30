@@ -3,7 +3,10 @@
 ## Assessment
 We use a range of assessment tools throughout the course, such as coursework, portfolio presentations, academic written submissions, poster presentations and exams for individual modules. You will also complete a dissertation based on the final collaborative project.
 
- ## Marking rubrics
+read the full details of current UWE regulations and guidelines here (https://www1.uwe.ac.uk/students/academicadvice/assessments/faqs.aspx)
+
+## Marking rubrics
+The range of marking at Masters level is as follows, Note 50% is a pass, each individual assignment will guide you toward any specific marking criteria appropriate to the deliverable materials.
  
 |  Mark | Status |Description |
 |-----|-----|-----|
@@ -19,6 +22,16 @@ We use a range of assessment tools throughout the course, such as coursework, po
 
 
  ## Resits
+ If you need to resit a module, you will be assessed again for the entire component/s you have not passed, even if you passed some of the work at the first sit and even if you had a missed assessments or exceptional removal of marks application accepted. You do not need to pay for a resit. If you need to use a further attempt (retake), you will have to redo all assessments and pay for the whole module again. No marks can be carried over from one attempt to the next, even if a missed assessments or exceptional removal of marks application has been accepted.
+
+If you have a resit, this is shown in your academic record using a code. For example:
+
+* 1RA – This is your first attempt at the module and you need to resit component A
+* 1RB – This is your first attempt at the module and you need to resit component B
+* 1RALL – This is your first attempt at the module and you need to resit all components.
+
+* If the code starts with a ‘2’, that means it is your second attempt at the module. A ‘3’ would mean your third attempt and so on.
+
  ## Guidance and advice
  ## Plagiarism Advice (https://www1.uwe.ac.uk/students/studysupport/studyskills/readingandwriting/plagiarism.aspx)
 The usual university strictures about plagiarism apply to this assignment. It is good practice in academic writing to reference correctly the work of others that you may draw upon for your own. Please help us to clearly distinguish your original efforts by so doing.
