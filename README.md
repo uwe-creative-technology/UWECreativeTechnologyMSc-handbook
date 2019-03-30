@@ -2,12 +2,17 @@
 handbook for UWE Creative Technology MSc program
 
  ### How to use:
+ read online here, or download and read. 
  
-  [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-  
-  [markdown cheatsheet in .pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-  
  ### How to contribute:
+ You can clone this repository and edit and request changes using github,
+ 
+ [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  
+ [markdown cheatsheet in .pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  
+ 
+----
 
 # Welcome to Creative Technology MSc at the University of the West of England
 
