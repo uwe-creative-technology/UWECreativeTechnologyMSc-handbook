@@ -24,10 +24,10 @@ version : 0.01
 3. [Regulations and academic procedures](regulations.md)
 4. [Structure](structure.md)
 5. [Assignments and marking](assignments.md)
-..* Marking rubrics
-..* Resits
-..* Guidance and advice
-..* Plagiarism
+ * Marking rubrics
+ * Resits
+ * Guidance and advice
+ * Plagiarism
 6. Shared tools and discussion, informtaion spaces
 6. Extra curricular course activities
 7. Opportunites and future destinations
