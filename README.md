@@ -25,7 +25,7 @@ version : 0.01
 4. [Structure](structure.md)
 5. [Assignments and marking](assignments.md)
  * [Marking rubrics](assignments.md#marking-rubrics)
- * Resits
+ * [Resits](assignments.md#resits)
  * Guidance and advice
  * Plagiarism
 6. Shared tools and discussion, informtaion spaces
