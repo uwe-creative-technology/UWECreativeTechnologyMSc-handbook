@@ -13,7 +13,7 @@ version : 0.01
 ## contents
 1. [Introduction](introduction.md)
 2. Overview
-3. [Regulations and academic documentations](regulations.md)
+3. [Regulations and academic procedures](regulations.md)
 4. [Structure](structure.md)
 5. [Assignments and marking](assignments.md)
 .. rubrics
