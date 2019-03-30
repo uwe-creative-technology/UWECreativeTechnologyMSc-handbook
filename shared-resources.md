@@ -1,7 +1,7 @@
 # Shared tools and discussion, information spaces
 
 ### We use a variety of online resources you can access 
-UWECreativetechnology.com/wiki to Find regularly updated links to interesting creative tech things online and read (and add to) a list of useful tools and resources for creative technology.
+(https://UWECreativetechnology.com/wiki) to Find regularly updated links to interesting creative tech things online and read (and add to) a list of useful tools and resources for creative technology.
 
 Join the [Slack](https://slack.com/) channel for info and discussion (https://uwe-creative-tech.slack.com)
 
