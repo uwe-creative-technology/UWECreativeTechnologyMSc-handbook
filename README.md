@@ -24,7 +24,7 @@ version : 0.01
 3. [Regulations and academic procedures](regulations.md)
 4. [Structure](structure.md)
 5. [Assignments and marking](assignments.md)
- * Marking rubrics
+ * [Marking rubrics](assignments.md#marking-rubrics)
  * Resits
  * Guidance and advice
  * Plagiarism
