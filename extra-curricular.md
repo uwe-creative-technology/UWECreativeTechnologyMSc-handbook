@@ -4,8 +4,11 @@
 
 We visit the Transmediale Digital Festival in Berlin in spring and have travelled to exchange with the Hong Kong Design Institute. We have also visited the School of Creative Media at City University, Hong Kong. Royal College of Art, London. The Mozilla Festival, for the open Internet movement, Ravensbourne College, London, and participate in the Web Dev Conference, Bristol.
 
-[![Hong Kong Field Trip video](http://img.youtube.com/vi/https://youtu.be/4WjYgvO2D0A/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/4WjYgvO2D0A)
+[![Hong Kong Field Trip video](http://img.youtube.com/vi/4WjYgvO2D0A/0.jpg)](http://www.youtube.com/watch?v=4WjYgvO2D0A)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4WjYgvO2D0A
+" target="_blank"><img src="http://img.youtube.com/vi/4WjYgvO2D0A/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 https://youtu.be/4WjYgvO2D0A
 
