@@ -114,3 +114,28 @@ Assess the suitability of the target website for different platforms, e.g. mobil
 
 ### Assessment
 The assignment for this module will assess learners’ practical skills in the production and communication of work via digital media. This will involve demonstrating an ability to assemble a portfolio of information rich digital media content.The presentation will be used to establish learners’ knowledge and comprehension of the module theory and content delivered in lectures practical sessions and reinforced through reading materials.
+
+## Creative Technology Dissertation (60 Credit Core module, semester 3)
+
+In this major 60 Credit module you will work independently to plan and manage a complex creative technology research project over an extended period of time, and complete it by a given deadline.
+
+### Syllabus outline
+Students are expected to carry out an in-depth survey of relevant literature to identify a focus for their study that contributes to existing research in the field. The primary research will involve the development of a creative technologies system. The written dissertation should make clear how the primary research was designed and conducted. Discussion of the outcomes of primary research should be clearly related to existing literature. The body of the dissertation should be supplemented by a critical review of key aspects of the research and development processes.
+
+Initially, students will develop a short proposal outlining the problem or opportunity they will be addressing, their proposed solution approach, the research methods they plan to use, and their overall plan. Then they will develop an in-depth proposal for their dissertation.
+
+### Learning goals
+On successful completion of this module students will be able to:
+
+* Demonstrate advanced knowledge of a complex and specialised area of knowledge and skills appropriate to the creative technologies domain. (A2)
+* Address an in-depth problem relevant to the creative technologies using arigorous approach involving a non-trivial technology system. (A1, A2)
+* Demonstrate an understanding of current theoretical and methodological approaches to the development of a substantive creative technologies system.
+* Conduct and write up academic research at a level appropriate to Masters credit.
+* Synthesise and critically evaluate data from multiple sources.
+* Evaluate the approach taken in undertaking primary and secondary research
+* Explore and understand the issues of ethics, validity, trustworthiness and reliability in research
+* Work independently to plan and manage a complex computing research project over an extended period of time, and complete it by a given deadline
+* Summarise, organise and convey ideas and succinctly and coherently
+
+### Assessment
+The research proposal, dissertation report and associated materials will be evaluated in the assessment of the student. The assessment of the report will be both in terms of its content (e.g. whether appropriate and sufficient research has been carried out, whether the design meets its requirements), the expression of its content (e.g. whether it is well-structured, well written, makes appropriate use of diagrams, employs an appropriate citation system).
