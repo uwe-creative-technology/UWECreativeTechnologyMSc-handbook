@@ -18,7 +18,7 @@ handbook for UWE Creative Technology MSc program
 
 version : 0.01 
 
-## contents
+## Contents
 1. [Introduction](introduction.md)
 3. [Regulations and academic procedures](regulations.md)
 4. [Structure](structure.md)
