@@ -20,7 +20,6 @@ version : 0.01
 
 ## contents
 1. [Introduction](introduction.md)
-2. Overview
 3. [Regulations and academic procedures](regulations.md)
 4. [Structure](structure.md)
 5. [Assignments and marking](assignments.md)
@@ -32,7 +31,6 @@ version : 0.01
 6. [Extra curricular course activities](extra-curricular.md)
 7. [Career Opportunites and future destinations](careers.md)
 8. [Study advice](study-advice.md)
-[!9. Contacts and further reading}
 
 
 
