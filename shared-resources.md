@@ -5,8 +5,8 @@
 #### Blackboard (http://uwe.ac.uk/blackboard)
 is the formal repository for documentation for all courses and modules you will undertake at UWE. The Blackboard Virtual Learning Environment (VLE) will have a separate 'run' for the main course or award you study (The Creative Technology MSc) and each indvidual module you are enrolled in. In each Blackboard 'run' will be details of the module, learing outcomes, up to date course specification, master version of assignments,  module staff contact details and any shared learing materials such as reading lists and slidesets. Many courses will also feature online submission of assignment work and dissemination of marks and feedback. This is also handed through Blackboard.
 
-#### Reading Lists 
-You can access online reading lists of core/required reading and additional/recommended reading for each module through individual Blackboard runs, or directly online through the Talis Library system at (http://readinglists.uwe.ac.uk)
+#### Reading Lists (http://readinglists.uwe.ac.uk)
+You can access online reading lists of core/required reading and additional/recommended reading for each module through individual Blackboard runs, or directly online through the Talis Library system. You can also search for materials and information and references through UWE's library systems. (https://www1.uwe.ac.uk/library/)
  
 #### Wiki (https://UWECreativetechnology.com/wiki)  
 Use the wiki to find regularly updated links to interesting creative tech things online and read (and add to) a list of useful tools and resources for creative technology. We also use the wiki for project blogging, shared documentation and arrangign ad-hoc elements such as co-ordinating tutorial timetables.
