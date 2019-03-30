@@ -14,8 +14,8 @@ Use the wiki to find regularly updated links to interesting creative tech things
 #### Slack (https://uwe-creative-tech.slack.com)
 Please join the [Slack](https://slack.com/) channel for info and discussion (https://uwe-creative-tech.slack.com). We use Slack extensively on a day to day basis for messaging and non-formal announcements, sharing of code questions and references and links.
 
-#### Twitter
-Read (and tweet) the feed for hashtag #UWEcreativetech
+#### Twitter (https://twitter.com/UWECreativeTech)
+Read, follow (and tweet) to and about UWE Creative Technology MSc. Use the hashtag #UWEcreativetech
 
 #### GitHub Code and information Repository (https://github.com/uwe-creative-technology)
 We use github as a repository for demonstration code and also for shared documents (this Handbook is written and shared via github). It allows management, sharing and version control of any kind of text document, writing, courses, notes and of course computer code.
