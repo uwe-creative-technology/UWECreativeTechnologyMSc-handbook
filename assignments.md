@@ -75,7 +75,10 @@ Below are the links to the Policy and Operational Guide documents:
 #### Guidance for students
 This short film has been made for students in order to explain the different stages of assessment and feedback processes at UWE Bristol.
 
-https://www.youtube.com/watch?time_continue=8&v=wT4uBzmtRHM 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wT4uBzmtRHM
+" target="_blank"><img src="http://img.youtube.com/vi/wT4uBzmtRHM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
+
 
 ## Plagiarism Advice (https://www1.uwe.ac.uk/students/studysupport/studyskills/readingandwriting/plagiarism.aspx)
 The usual university strictures about plagiarism apply to this assignment. It is good practice in academic writing to reference correctly the work of others that you may draw upon for your own. Please help us to clearly distinguish your original efforts by so doing.
