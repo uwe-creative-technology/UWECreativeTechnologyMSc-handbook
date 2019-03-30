@@ -9,7 +9,7 @@ one, Autumn | [Creative Technology Toolkit (30 Credit)](structure.md#creative-te
 two, Spring | [Creative Technology Research and Practice (30 Credit)](structure.md#creative-technologies-research-and-practice) |Digital Connections (15 Credit) | Elective two (15 Credit)
 three, Summer | Master Dissertation Project (60 Credit) ||
 
-## Creative Technologies Toolkit
+## Creative Technologies Toolkit (30 Credit Core module, semester 1)
 In this 30 Credit module you will learn to design and evaluate creative computing solutions to satisfy design specifications by integrating modern visual, audio and interactive software and hardware technologies.
 Syllabus outline
 You will be introduced to a number of technology and design related ideas, topics and techniques including:
@@ -36,7 +36,7 @@ Assemble and present a portfolio of creative technology projects, demonstrating 
 Assessment
 The assessment will be used to assess learners’ abilities to apply skills and embed theory within practice through the development and communication of creative technology systems. This will require students to assemble and submit a portfolio of diverse creative technologies systems. The demonstration will be used to establish learners’ knowledge and comprehension of the module content, delivered in taught sessions and reinforced through reading materials. Formative assessment will be provided as part of the practical sessions. Individual feedback will be provided on the assignment and demonstration. Assessment criteria will be supplied with the assignment and demonstration specification.
 
-## Creative Technologies Research and Practice
+## Creative Technologies Research and Practice (30 Credit Core module, semester 2)
 
 In this 30 credit module we develop research questions and manage the life cycle of a creative technologies project that incorporates the design, implementation, deployment and evaluation of a system that addresses academic or industry stakeholder needs.
 ### Syllabus outline
@@ -61,7 +61,7 @@ On successful completion of this module students will be able to:
 ### Assessment
 The assignment will document the development of a single piece of creative technologies research and should be presented in the format and style of a research manuscript for a creative technologies conference or journal. This will involve demonstrating an ability to create and document an extended piece of work. The paper will also be presented along with a poster at a controlled poster presentation in the format found at academic conferences. Formative assessment and feedback will be provided as part of the practical sessions. Assessment criteria will be supplied with the assignment and presentation specification.
 
-## Creative Technologies Research
+## Creative Technologies Research (15 Credit Core module, semester 1)
 In this 15 Credit module you will design and evaluate research strategies and assemble and present a portfolio of research in a theoretical and practical context
 ### Syllabus outline
 Indicative areas of study:
@@ -84,3 +84,33 @@ On successful completion of this module students will be able to:
 * Assemble and present a portfolio of research with evidence of evaluation and tangible outputs. (A and B)
 ### Assessment
 The presentation will be used to establish learners’ knowledge and comprehension of the module content delivered in lectures practical sessions and reinforced through reading materials. The assignment will be used to assess learners’ ability to comprehend an apply research methods in the creative technologies and the communication of such systems.
+
+## Digital Connections (15 Credit Core module, semester 2)
+
+In this 15 Credit module we will apply visual design, usability principles and digital sharing strategies to personal creative or technological practice through modern communication channels.
+### Syllabus outline
+Indicative areas of study:
+
+* The current web environment, clients and servers, browsers, displays, human-web interaction.
+* Tools of the internet HTML, CSS, Javascript. The document object model, WAI ARIA, accessibility and standards orientated design and development.
+* Multiplatform distribution, responsive design, semantic markup, client side and server side processing technologies. workflow and development environments
+* Web design principles and guidelines: usability, accessibility, W3 recommendations, site design guidelines, accessibility and internationalisation.
+* Site design, site purpose, planning, and structure.
+* Page and interface design, navigation and interaction.
+* User navigation control and content contribution, incorporating multimedia elements, creating and maintaining pages with an authoring tool.
+* Designing responsive content for multi-platform distribution.
+* Legibility. Reading and attention. Embedding fonts.
+* Designing for interactivity. Editing. Enriched content: multimedia and hypermedia.
+* Visual design: Design sketches and prototypes. Designing for visual appeal. Observing and critiquing existing sites. Graphic design: the Web palette; GIF, JPEG, PNG.
+
+### Learning goals
+On successful completion of this module students will be able to:
+
+* Author simple web pages using modern web standards and best practice programming techniques
+Assess the suitability of the target website for different platforms, e.g. mobile, extranet, intranet.
+* Critically evaluate user interface design
+* Recognise and apply visual design and usability principles to a given context and specification
+* Devise, design, assemble and implement a strategies for sharing personal creative or technological practice through modern communication channels
+
+### Assessment
+The assignment for this module will assess learners’ practical skills in the production and communication of work via digital media. This will involve demonstrating an ability to assemble a portfolio of information rich digital media content.The presentation will be used to establish learners’ knowledge and comprehension of the module theory and content delivered in lectures practical sessions and reinforced through reading materials.
