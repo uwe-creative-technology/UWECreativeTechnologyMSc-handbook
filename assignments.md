@@ -6,4 +6,7 @@ We use a range of assessment tools throughout the course, such as coursework, po
  ## Marking rubrics
  ## Resits
  ## Guidance and advice
- ## Plagiarism
+ ## Plagiarism Advice (https://www1.uwe.ac.uk/students/studysupport/studyskills/readingandwriting/plagiarism.aspx)
+The usual university strictures about plagiarism apply to this assignment. It is good practice in academic writing to reference correctly the work of others that you may draw upon for your own. Please help us to clearly distinguish your original efforts by so doing.
+If you use code from other sites, the sources must be referenced in your Bibliography. If you use any other site(s) as a source of ideas for your site, you must reference the source. If you copy code and/or ideas from another student's work, or even if you are helped by another student, you must reference/acknowledge the source.
+
