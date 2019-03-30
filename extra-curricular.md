@@ -10,7 +10,6 @@ We visit the Transmediale Digital Festival in Berlin in spring and have travelle
 " target="_blank"><img src="http://img.youtube.com/vi/4WjYgvO2D0A/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-https://youtu.be/4WjYgvO2D0A
 
 ## Placements
 
