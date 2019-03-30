@@ -11,11 +11,11 @@ handbook for UWE Creative Technology MSc program
 version : 0.01 
 
 ## contents
-1. Introduction(/introduction.md)
+1. [Introduction](introduction.md)
 2. Overview
-3. Regulations and academic documentations
-4. Structure
-5. Assignments and marking
+3. [Regulations and academic documentations](regulations.md)
+4. [Structure](structure.md)
+5. [Assignments and marking](assignments.md)
 .. rubrics
 .. plagiarism
 .. resits
