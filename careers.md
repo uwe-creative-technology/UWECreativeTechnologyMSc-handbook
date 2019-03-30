@@ -7,7 +7,7 @@ You will also be suited for work in areas where there is a heavy reliance on tec
 With a recognised skills shortage in the region, graduates from the MSc in Creative Technology can realistically expect to find exciting opportunities in the Bristol area as well as further afield.
 
 Past UWE Students from within Creative Technologies have found work with organisations and employers across the world including;
-The BBC, Disney (Lyft) Studios, IBM, E3, The Alacrity Foundation, Ministry of Defence, Nomensa, JISC, CX Partners amongst others, as well as research organisations, and their own startups and ventures. Several students have developed their professional practice within design, arts and music, and now record, exhibiting and perform internationally.
+The BBC, Disney (Lyft) Studios, IBM, E3, The Alacrity Foundation, Ministry of Defence, Nomensa, JISC, CX Partners amongst others, as well as research organisations, and their own startups and ventures. Several students have developed their professional practice within design, arts and music, and now record, exhibit and perform internationally.
 
 ### Links and resources for job hunting, opportunities and tips for portfolio and CV generation
 
