@@ -59,3 +59,27 @@ Develop and investigate research questions by selecting and applying research me
 Communicate research within the creative technologies in a written and verbal format at a level appropriate for presentation at nationally recognised research events.
 Assessment
 The assignment will document the development of a single piece of creative technologies research and should be presented in the format and style of a research manuscript for a creative technologies conference or journal. This will involve demonstrating an ability to create and document an extended piece of work. The paper will also be presented along with a poster at a controlled poster presentation in the format found at academic conferences. Formative assessment and feedback will be provided as part of the practical sessions. Assessment criteria will be supplied with the assignment and presentation specification.
+
+## Creative Technologies Research
+In this 15 Credit module you will design and evaluate research strategies and assemble and present a portfolio of research in a theoretical and practical context
+### Syllabus outline
+Indicative areas of study:
+
+* Problem formulation, design, development and planning for creative research
+* Reading, writing and formulation strategies for creative applications and outputs.
+* Epistemological and trans-disciplinary reasoning
+* Qualitative and quantitative research and evaluation techniques
+* Statistical analysis for creative applications
+* Poster and presentation design and delivery
+* Grant and application processes
+* Qualitative and quantitative research
+* Language, referencing, citation, formatting and submission for formal writing
+### Learning goals
+On successful completion of this module students will be able to:
+
+* Identify key processes, methods, tools and practices associated with creative technologies research.
+* Design, develop, test and evaluate research strategies in a theoretical and practical context.
+* Recall, discuss, and apply theories and methods of conducting robust domain specific research.
+* Assemble and present a portfolio of research with evidence of evaluation and tangible outputs. (A and B)
+### Assessment
+The presentation will be used to establish learners’ knowledge and comprehension of the module content delivered in lectures practical sessions and reinforced through reading materials. The assignment will be used to assess learners’ ability to comprehend an apply research methods in the creative technologies and the communication of such systems.
