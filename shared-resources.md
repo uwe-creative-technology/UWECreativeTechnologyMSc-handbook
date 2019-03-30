@@ -6,6 +6,7 @@
 Join the [Slack](https://slack.com/) channel for info and discussion (https://uwe-creative-tech.slack.com)
 
 Read (and tweet) the feed for hashtag #UWEcreativetech
+
 Ask questions in the wiki discussion pages
 
 Search site content from previous years – E.G. coursework guidance
