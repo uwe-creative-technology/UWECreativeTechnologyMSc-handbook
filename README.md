@@ -26,7 +26,7 @@ version : 0.01
 5. [Assignments and marking](assignments.md)
  * [Marking rubrics](assignments.md#marking-rubrics)
  * [Resits](assignments.md#resits)
- * Guidance and advice
+ * [Guidance and advice](assignments.md#guidance-and-advice)
  * Plagiarism
 6. Shared tools and discussion, informtaion spaces
 6. [Extra curricular course activities](extra-curricular.md)
