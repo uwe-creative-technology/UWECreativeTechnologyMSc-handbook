@@ -17,6 +17,11 @@ Please join the [Slack](https://slack.com/) channel for info and discussion (htt
 #### Twitter
 Read (and tweet) the feed for hashtag #UWEcreativetech
 
+#### GitHub Code and information Repository (https://github.com/uwe-creative-technology)
+We use github as a repository for demonstration code and also for shared documents (this Handbook is written and shared via github). It allows management, sharing and version control of any kind of text document, writing, courses, notes and of course computer code.
+
+#### Vimeo (https://vimeo.com/uwecreativetech)
+Video channel on Vimeo showcasing workshops, student work and research projects.
 
 
 Search site content from previous years – E.G. coursework guidance
