@@ -29,7 +29,7 @@ version : 0.01
  * Guidance and advice
  * Plagiarism
 6. Shared tools and discussion, informtaion spaces
-6. Extra curricular course activities
+6. [Extra curricular course activities](extra-curricular.md)
 7. Opportunites and future destinations
 8. Study advice
 9. Contacts and further reading
