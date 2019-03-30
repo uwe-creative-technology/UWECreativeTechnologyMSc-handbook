@@ -9,14 +9,14 @@ The course will equip you to work at the cutting edge of technology-orientated c
 Welcome from 
 
 ### Dr. Daniel Buzzo Programme Leader
-daniel.buzzo@uwe.ac.uk
-
-### Dr. Natanya Ford
-### Dr. Dave Meckin
-### Dr. Chris Nash
-### Dr. Michaela Palmer
-### Prof. Praminda Caleb Solly
-### Luke Reed
+(daniel.buzzo@uwe.ac.uk) (https://people.uwe.ac.uk/Person/DanielBuzzo)
+### Dr. Natanya Ford (https://people.uwe.ac.uk/Person/NatanyaFord)
+### Dr. Dave Meckin (https://people.uwe.ac.uk/Person/DaveMeckin)
+### Dr. Chris Nash (https://people.uwe.ac.uk/Person/ChrisNash)
+### Dr. Michaela Palmer (https://people.uwe.ac.uk/Person/MicPalmer)
+### Prof. Praminda Caleb Solly (https://people.uwe.ac.uk/Person/PramindaCaleb-solly)
+### Luke Reed (https://people.uwe.ac.uk/Person/LukeReed)
+and many more specialist staff
 
 ## Visiting speakers
 Include Jack Hayward, Gravity Well Digital Agency(https://www.gravitywell.co.uk). Amanda Chambers FRSA (https://www.amandachambers.co.uk). Matt Glanfield @GlanFM(https://twitter.com/glanfm). Dave Martin, CX Partners (https://www.cxpartners.co.uk) . Prof Marc Hassenzahl (University of Siegen). Dr. Annie Tubadji (UWE Faculty of Business and Law).  Dr Frank Nack (University of Amsterdam) amongst many others.
