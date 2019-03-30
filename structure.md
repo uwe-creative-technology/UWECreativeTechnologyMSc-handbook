@@ -1,0 +1,1 @@
+# Course struture and rationale
