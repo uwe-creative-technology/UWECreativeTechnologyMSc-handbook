@@ -1,5 +1,20 @@
 # Course struture and rationale
 
+## Learning and Teaching
+The course is based on a mixed programme of theory and practice. This will be delivered through a combination of lectures, presentations, seminars, workshops, group work, supervision and placements.
+As well as contact hours on campus, you will be encouraged to undertake independent learning through essential reading, case study preparation, and assignment work. Consultancy projects and guest lectures from industry specialists give you invaluable insights into the professional environment.
+
+Throughout the course, each student will be supported by an individual supervisor. You will also have access to high-quality technical and specialist support, facilities, labs and studios.
+
+In addition to developing practical skills, there is a strong emphasis on developing your professional and interpersonal skills, such as presentation, communication, planning, costing and teamwork.
+For more details, see our glossary of teaching and learning terms.
+
+## Study routes for the Creative Technology MSc
+The MSc Creative Technology is currently available as a full time course.
+
+### Full-time study
+Full-time students study for 60 credits each term. Contact learning includes six classroom hours per week with additional technical workshops, tutorials and project progress meetings during the academic year. Additionally, you will be expected to pursue your own self-directed study. This will be related to both projects and assessment goals, and can be based around your chosen area of interest or expertise.
+
 The full Masters course comprises 180 credits divided into three 60 credits stages: Postgraduate Certificate, Postgraduate Diploma, and Masters. Students work incrementally through the three stages and must pass all modules at each stage in order to progress to the next.
 Over the course of one year, you will study the following compulsory modules:
 
