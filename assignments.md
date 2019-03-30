@@ -5,6 +5,24 @@ We use a range of assessment tools throughout the course, such as coursework, po
 
 read the full details of current UWE regulations and guidelines here (https://www1.uwe.ac.uk/students/academicadvice/assessments/faqs.aspx)
 
+#### Successful completion of your Masters degree
+In order to be eligible for a Masters degree, you are required to pass 180 credits. The following section sets out how the differential outcome for the award is then calculated once you have achieved 180 credits.
+
+The following method of calculation will apply to all Masters degree students who registered for the first time on or after the 1st September 2018 and to all students who registered before the 1st September 2018 but will be graduating in 2018/2019.
+
+* Merit
+A merit will be awarded where a weighted average of at least 60% has been achieved across any combination of modules at level M totalling 120 credits.
+
+* Distinction
+A distinction will be awarded where a weighted average of at least 70% has been achieved across any combination of modules at level M totalling 120 credits.
+
+The calculation will use the weighted average of your best 120 credits at level M to determine your final outcome. If you wish to estimate this yourself, you can multiply the mark for each of your ‘best’ modules by its credit value (e.g. 15, 30, 45) and divide the overall total by 120.
+
+Any outcome that you calculate is based solely on your selection of marks, and the University will not be bound by any calculation that you create.
+
+The academic record system works with unrounded marks, but the marks you see on myUWE are rounded to the nearest whole number, so there may be a small difference between your estimate and that of the academic record system.
+
+
 ## Marking rubrics
 The range of marking at Masters level is as follows, Note 50% is a pass, each individual assignment will guide you toward any specific marking criteria appropriate to the deliverable materials.
  
