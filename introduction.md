@@ -1,8 +1,25 @@
-# introduction
+# Introduction
 
 Almost everything we do in our daily lives employs creative technology in one way or another, whether this is film and music, print and broadcast or commerce and interactive entertainment. Our increasing inter-relationships with technology means there is a growing need for skilled and highly versatile creative technologists who are able to identify, design, build and implement systems and solutions that stretch the potential of ideas, software and programming.
 
 The course will equip you to work at the cutting edge of technology-orientated creative practice and its associated industries, with the key analytic and creative skills needed to embrace new and as yet unimagined techniques and their uses. You will gain an enhanced understanding of practice, technology and people, along with the ability to select appropriate working methods and approaches in professional creative contexts. It is also a pathway to further academic study in the field or for those wishing to forge a career within international research.
+
+## Staff
+
+Welcome from 
+
+### Dr. Daniel Buzzo Programme Leader
+daniel.buzzo@uwe.ac.uk
+
+### Dr. Natanya Ford
+### Dr. Dave Meckin
+### Dr. Chris Nash
+### Dr. Michaela Palmer
+### Prof. Praminda Caleb Solly
+### Luke Reed
+
+## Visiting speakers
+Include Jack Hayward, Gravity Well Digital Agency(https://www.gravitywell.co.uk). Amanda Chambers FRSA (https://www.amandachambers.co.uk). Matt Glanfield @GlanFM(https://twitter.com/glanfm). Dave Martin, CX Partners (https://www.cxpartners.co.uk) . Prof Marc Hassenzahl (University of Siegen). Dr. Annie Tubadji (UWE Faculty of Business and Law).  Dr Frank Nack (University of Amsterdam) amongst many others.
 
 ## Building on your skills
 The course offers an in-depth and critical approach. Practical learning will allow you to create, apply and evaluate technological solutions in different creative contexts, including programming, web technologies, digital audio, musical composition, physical computing and project development.
