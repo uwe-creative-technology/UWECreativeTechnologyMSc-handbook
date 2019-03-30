@@ -19,7 +19,7 @@ Welcome from
 and many more specialist staff
 
 ## Visiting speakers
-Include Jack Hayward, Gravity Well Digital Agency(https://www.gravitywell.co.uk). Amanda Chambers FRSA (https://www.amandachambers.co.uk). Matt Glanfield @GlanFM(https://twitter.com/glanfm). Dave Martin, CX Partners (https://www.cxpartners.co.uk) . Prof Marc Hassenzahl (University of Siegen). Dr. Annie Tubadji (UWE Faculty of Business and Law).  Dr Frank Nack (University of Amsterdam) amongst many others.
+Include Jack Hayward, Gravity Well Digital Agency(https://www.gravitywell.co.uk). Amanda Chambers FRSA (https://www.amandachambers.co.uk). Matt Glanfield @GlanFM(https://twitter.com/glanfm). Dave Martin, CX Partners (https://www.cxpartners.co.uk). Steve Symons, Glastonbury Festivals. Prof Marc Hassenzahl (University of Siegen). Dr. Annie Tubadji (UWE Faculty of Business and Law).  Dr Frank Nack (University of Amsterdam) amongst many others.
 
 ## Building on your skills
 The course offers an in-depth and critical approach. Practical learning will allow you to create, apply and evaluate technological solutions in different creative contexts, including programming, web technologies, digital audio, musical composition, physical computing and project development.
