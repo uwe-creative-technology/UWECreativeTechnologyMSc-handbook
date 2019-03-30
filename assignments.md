@@ -5,16 +5,17 @@ We use a range of assessment tools throughout the course, such as coursework, po
 
  ## Marking rubrics
  
-  Mark | Status |Description |
-90-100 | Pass  |Excellent, publishable, world class work.
-80-89 | Pass | Excellent, meeting very high academic criteria, goes beyond brief requirements.
-70-79 | Pass| Very Good, meets brief and shows clear understanding with very good structure and creative flair.
-60-69 | Pass | Good, meets all the requirements of the brief.
-50-59 | Fail | Pass, only meets the most basic of the assessment specifications. 
-40-49| Fail | Marginal Fail
-30-39 | Fail| Clear Fail
-20-29| Fail| Bad Fail
- 0-19| Fail| Bad Fail/ Un-markable
+|  Mark | Status |Description |
+|-----|-----|-----|
+| 90-100| Pass  |Excellent, publishable, world class work.|
+| 80-89 | Pass | Excellent, meeting very high academic criteria, goes beyond brief requirements.|
+| 70-79 | Pass | Very Good, meets brief and shows clear understanding with very good structure and creative flair.|
+| 60-69 | Pass | Good, meets all the requirements of the brief.|
+| 50-59 | Fail | Pass, only meets the most basic of the assessment specifications. |
+| 40-49 | Fail | Marginal Fail |
+| 30-39 | Fail | Clear Fail |
+| 20-29 | Fail | Bad Fail |
+|  0-19 | Fail | Bad Fail/ Un-markable |
 
 
  ## Resits
