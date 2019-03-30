@@ -10,11 +10,9 @@ In order to be eligible for a Masters degree, you are required to pass 180 credi
 
 The following method of calculation will apply to all Masters degree students who registered for the first time on or after the 1st September 2018 and to all students who registered before the 1st September 2018 but will be graduating in 2018/2019.
 
-* Merit
-A merit will be awarded where a weighted average of at least 60% has been achieved across any combination of modules at level M totalling 120 credits.
+* **Merit** A merit will be awarded where a weighted average of at least 60% has been achieved across any combination of modules at level M totalling 120 credits.
 
-* Distinction
-A distinction will be awarded where a weighted average of at least 70% has been achieved across any combination of modules at level M totalling 120 credits.
+* **Distinction** A distinction will be awarded where a weighted average of at least 70% has been achieved across any combination of modules at level M totalling 120 credits.
 
 The calculation will use the weighted average of your best 120 credits at level M to determine your final outcome. If you wish to estimate this yourself, you can multiply the mark for each of your ‘best’ modules by its credit value (e.g. 15, 30, 45) and divide the overall total by 120.
 
