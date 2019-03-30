@@ -38,26 +38,27 @@ The assessment will be used to assess learners’ abilities to apply skills and 
 
 ## Creative Technologies Research and Practice
 
-n this 30 credit module we develop research questions and manage the life cycle of a creative technologies project that incorporates the design, implementation, deployment and evaluation of a system that addresses academic or industry stakeholder needs.
-Syllabus outline
+In this 30 credit module we develop research questions and manage the life cycle of a creative technologies project that incorporates the design, implementation, deployment and evaluation of a system that addresses academic or industry stakeholder needs.
+### Syllabus outline
 We will cover a number of differing ideas and approaches and you will be introduced to the range of topics including;
 
-Epistemology and ontology and the philosophy of knowledge
-Designing and conducting a creative technologies research project: reviewing, evaluating and managing literature; identifying aims, objectives and milestones; project management; formulating research questions; ethics
- Stakeholder engagement including requirements analysis, contexts, proposals, intellectual property, milestones, progress meetings, deployment, documentation
-History of digital art and the creative technologies.
-Interdisciplinary collaboration.
-Generative systems and computer art and music.
-Research methods including: quantitative data analyses and statistical techniques; surveys and questionnaires; qualitative methods, interviews, discourse analysis and focus groups.
-Communication and dissemination: academic writing, peer review and public speaking.
-Learning goals
+* Epistemology and ontology and the philosophy of knowledge
+* Designing and conducting a creative technologies research project: reviewing, evaluating and managing literature; identifying aims, objectives and milestones; project management; formulating research questions; ethics
+* Stakeholder engagement including requirements analysis, contexts, proposals, intellectual property, milestones, progress meetings, deployment, documentation
+* History of digital art and the creative technologies.
+* Interdisciplinary collaboration.
+* Generative systems and computer art and music.
+* Research methods including: quantitative data analyses and statistical techniques; surveys and questionnaires; qualitative methods, interviews, discourse analysis and focus groups.
+* Communication and dissemination: academic writing, peer review and public speaking.
+
+### Learning goals
 On successful completion of this module students will be able to:
 
-Identify, review and communicate research from a range of sources relevant to a specific research domain within the creative technologies.
-Manage the complete lifecycle of a creative technologies project that incorporates the design, implementation, deployment and evaluation of a system that addresses academic or industry stakeholder needs.
-Develop and investigate research questions by selecting and applying research methods appropriate to the creative technologies to generate key data and present robust results.
-Communicate research within the creative technologies in a written and verbal format at a level appropriate for presentation at nationally recognised research events.
-Assessment
+* Identify, review and communicate research from a range of sources relevant to a specific research domain within the creative technologies.
+* Manage the complete lifecycle of a creative technologies project that incorporates the design, implementation, deployment and evaluation of a system that addresses academic or industry stakeholder needs.
+* Develop and investigate research questions by selecting and applying research methods appropriate to the creative technologies to generate key data and present robust results.
+* Communicate research within the creative technologies in a written and verbal format at a level appropriate for presentation at nationally recognised research events.
+### Assessment
 The assignment will document the development of a single piece of creative technologies research and should be presented in the format and style of a research manuscript for a creative technologies conference or journal. This will involve demonstrating an ability to create and document an extended piece of work. The paper will also be presented along with a poster at a controlled poster presentation in the format found at academic conferences. Formative assessment and feedback will be provided as part of the practical sessions. Assessment criteria will be supplied with the assignment and presentation specification.
 
 ## Creative Technologies Research
