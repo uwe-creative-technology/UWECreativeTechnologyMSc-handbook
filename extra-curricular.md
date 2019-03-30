@@ -4,6 +4,11 @@
 
 We visit the Transmediale Digital Festival in Berlin in spring and have travelled to exchange with the Hong Kong Design Institute. We have also visited the School of Creative Media at City University, Hong Kong. Royal College of Art, London. The Mozilla Festival, for the open Internet movement, Ravensbourne College, London, and participate in the Web Dev Conference, Bristol.
 
+[![Hong Kong Field Trip video](http://img.youtube.com/vi/https://youtu.be/4WjYgvO2D0A/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/4WjYgvO2D0A)
+
+
+https://youtu.be/4WjYgvO2D0A
+
 ## Placements
 
 Placements give you the opportunity to hone your professional skills, gain industry knowledge and expand your network of contacts.
