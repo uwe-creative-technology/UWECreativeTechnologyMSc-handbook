@@ -28,7 +28,7 @@ version : 0.01
  * [Resits](assignments.md#resits)
  * [Guidance and advice](assignments.md#guidance-and-advice)
  * [Plagiarism](assignments.md#plagiarism)
-6. Shared tools and discussion, informtaion spaces
+6. [Shared tools and discussion, information spaces](shared-resources.md)
 6. [Extra curricular course activities](extra-curricular.md)
 7. [Career Opportunites and future destinations](careers.md)
 8. Study advice
