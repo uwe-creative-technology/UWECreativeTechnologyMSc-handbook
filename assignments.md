@@ -19,7 +19,7 @@ The calculation will use the weighted average of your best 120 credits at level 
 Any outcome that you calculate is based solely on your selection of marks, and the University will not be bound by any calculation that you create.
 
 The academic record system works with unrounded marks, but the marks you see on myUWE are rounded to the nearest whole number, so there may be a small difference between your estimate and that of the academic record system.
-
+Full details of current regulations are here (https://www1.uwe.ac.uk/students/academicadvice/degreeclassification.aspx)
 
 ## Marking rubrics
 The range of marking at Masters level is as follows, Note 50% is a pass, each individual assignment will guide you toward any specific marking criteria appropriate to the deliverable materials.
