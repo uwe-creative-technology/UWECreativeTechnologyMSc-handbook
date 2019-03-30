@@ -8,7 +8,7 @@ We visit the Transmediale Digital Festival in Berlin in spring and have travelle
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4WjYgvO2D0A
 " target="_blank"><img src="http://img.youtube.com/vi/4WjYgvO2D0A/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
 
 
 ## Placements
