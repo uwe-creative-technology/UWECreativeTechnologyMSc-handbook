@@ -2,7 +2,7 @@
 
 ## UWE CreativeTechnology MSc handbook
 
-Handbook for UWE Creative Technology MSc program
+Current Handbook for UWE Creative Technology MSc program
 
 #### How to use this document:
 
