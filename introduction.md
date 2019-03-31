@@ -8,7 +8,7 @@ Almost everything we do in our daily lives employs creative technology in one wa
 
 The course will equip you to work at the cutting edge of technology-orientated creative practice and its associated industries, with the key analytic and creative skills needed to embrace new and as yet unimagined techniques and their uses. You will gain an enhanced understanding of practice, technology and people, along with the ability to select appropriate working methods and approaches in professional creative contexts. It is also a pathway to further academic study in the field or for those wishing to forge a career within international research.
 
-![Raspberry Pi mini computers on bench](/images/pi.jpg)
+![Raspberry Pi mini computers on bench](./images/pi.jpg)
 ## Staff
 
 Welcome from
