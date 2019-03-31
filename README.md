@@ -10,7 +10,7 @@ Handbook for UWE Creative Technology MSc program
 
  ### How to contribute:
  You can clone this repository and edit and request changes using github,
-The content is laued up using markdown for quickstart in using markdown see:
+The content is laid up using markdown (https://daringfireball.net/projects/markdown/) for quickstart in using markdown see:
  * [Adam-p markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
  * [GitHub markdown cheatsheet in .pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
