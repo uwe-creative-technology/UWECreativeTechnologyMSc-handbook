@@ -21,7 +21,7 @@ The content is laid up using markdown (https://daringfireball.net/projects/markd
 # UWE Creative Technology MSc
 ## Course Handbook 2018-19
 
-![alt text][UWElogo] "Optional title"
+![alt text][UWElogo]
 
 [UWElogo]: ./images/UWE_Bristol_logo.svg "UWE Bristol Logo" 
 version : 1.0
