@@ -36,7 +36,8 @@ UWE Bristol’s in-house commercial games studio.
 
 #### Impulse
 
-UWE Bristol’s in house audio & music technologies innovation and enterprise studio which bridges students to their industry by enabling authentic professional experiences through paid, real-world projects ![The Works at UWE Bristol](.gitbook/assets/theworks_uwe.gif)
+UWE Bristol’s in house audio & music technologies innovation and enterprise studio which bridges students to their industry by enabling authentic professional experiences through paid, real-world projects 
+![The Works at UWE Bristol](.gitbook/assets/theworks_uwe.gif)
 
 #### The Works and The Foundry
 
