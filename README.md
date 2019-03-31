@@ -40,3 +40,4 @@ Please note that the electronic version of the handbook will be kept up to date 
 6. [Extra curricular course activities](extra-curricular.md)
 7. [Career Opportunites and future destinations](careers.md)
 8. [Study advice](study-advice.md)
+9. [Insurance](insurance.md)
