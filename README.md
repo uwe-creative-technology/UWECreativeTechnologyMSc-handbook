@@ -1,4 +1,4 @@
-# UWECreativeTechnologyMSc-handbook
+# UWE CreativeTechnology MSc handbook
 Handbook for UWE Creative Technology MSc program
 
  ### How to use this document:
@@ -14,7 +14,7 @@ The content is laued up using markdown for quickstart in using markdown see:
 
 ----
 
-# Welcome to Creative Technology MSc at the University of the West of England
+# UWE Creative Technology MSc Course Handbook 2018-19
 
 ![alt text][UWElogo]
 
