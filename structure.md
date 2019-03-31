@@ -157,3 +157,30 @@ On successful completion of this module students will be able to:
 
 ### Assessment
 The research proposal, dissertation report and associated materials will be evaluated in the assessment of the student. The assessment of the report will be both in terms of its content (e.g. whether appropriate and sufficient research has been carried out, whether the design meets its requirements), the expression of its content (e.g. whether it is well-structured, well written, makes appropriate use of diagrams, employs an appropriate citation system).
+
+## Elective  modules
+
+### Designing the User Experience
+This module is taught in weekly workshops. Engagement with – and understanding of – the topics is facilitated through practical activities and the opportunity for critical analysis and reflection. You will learn about:
+The Nature of Interaction Design: User experience;
+* Human characteristics and diversity:
+* Use experience and Usability:
+* User-centred design process and methodologies;
+* Evaluation: goals and methods of evaluation
+* New and emerging interaction paradigms:
+
+### Advanced Composition
+You’ll develop skills in contemporary composition enabling you to explore your own creative voice. During the module you will work on a small portfolio of studies as well as preparing a free composition. Specific areas of study may include:
+* Orchestration;
+* 20th-century compositional techniques;
+* Electroacoustic Composition.
+
+### Sonic Art
+Sonic art ranges from interactive sound installations to improvised live performances, from computer programming and live coding through to audiovisual practices, circuit bending, analogue plunderphonics and noise compositions. This module will require you to produce a piece of sonic art. The exact nature of this is up to you, the possibilities are quite broad. The piece can be scored, arranged or live improvised. However, it will be expected that the piece explores sound beyond conventional melody, rhythm and harmony. It should also explore and take advantage of technological interventions within sonic processes (such as granular synthesis, convolution, glitch, etc).
+
+### Generative Systems Design for audio and video
+Exploring the exciting world of generative systems, applied to design and art in the field of audio, video and design. This module explores a number of foundational computer science methods and techniques, from which artist/designer practitioners can look to real world applications for the developmen of new kind of art and design and musical possibilites.
+* Foundations of generative systems
+* Practical application in art, design, architecture and music
+* Exploring the relationship of artist/designer when working with generative tools
+
