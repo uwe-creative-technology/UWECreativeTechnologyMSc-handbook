@@ -21,6 +21,12 @@ The content is laued up using markdown for quickstart in using markdown see:
 [UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
 version : 0.01
 author: dan buzzo
+
+The handbook is designed to provide information relevant to the programme.  The information in the handbook may also be provided in a number of other electronic or paper sources and this document provides links to the definitive data sources wherever possible.
+
+Please note that the electronic version of the handbook will be kept up to date and you will be notified of any significant changes.  If you have taken a hard copy of any information, please remember to refer back to the electronic version to ensure that you are working with the most up to date information.
+
+
 ## Contents
 1. [Introduction](introduction.md)
 3. [Regulations and academic procedures](regulations.md)
