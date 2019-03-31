@@ -1,6 +1,6 @@
 ![alt text][UWElogo]
 
-[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"  
+[UWElogo]: ./images/UWE_Bristol_logo.svg "UWE Bristol Logo"  
 # Course struture and rationale
 
 ## Learning and Teaching
@@ -158,7 +158,7 @@ On successful completion of this module students will be able to:
 ### Assessment
 The research proposal, dissertation report and associated materials will be evaluated in the assessment of the student. The assessment of the report will be both in terms of its content (e.g. whether appropriate and sufficient research has been carried out, whether the design meets its requirements), the expression of its content (e.g. whether it is well-structured, well written, makes appropriate use of diagrams, employs an appropriate citation system).
 
-## Elective  modules (you must choose two elective modules, each is 15 Credits) 
+## Elective  modules (you must choose two elective modules, each is 15 Credits)
 
 ### Designing the User Experience (15 Credits)
 This module is taught in weekly workshops. Engagement with – and understanding of – the topics is facilitated through practical activities and the opportunity for critical analysis and reflection. You will learn about:
@@ -183,4 +183,3 @@ Exploring the exciting world of generative systems, applied to design and art in
 * Foundations of generative systems
 * Practical application in art, design, architecture and music
 * Exploring the relationship of artist/designer when working with generative tools
-

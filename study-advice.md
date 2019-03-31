@@ -1,6 +1,6 @@
 ![alt text][UWElogo]
 
-[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo" 
+[UWElogo]: ./images/UWE_Bristol_logo.svg "UWE Bristol Logo" 
 # Study Advice and support
 The following links provide detailed information on study skill provision and UWE academic policy. In submitting your final submission for examination you agree that you have read the following guides linked to below:
 
@@ -14,14 +14,14 @@ Academic Support is provided through a number of roles and students should seek 
 Programme Manager – programme related issues, issues impacting on a number of modules within the programme, programme specific activities happening outside modules
 
 Module Leader – module related issues, issues that affect that module only
-Academic Personal Tutor – broader issues relating to teaching and learning at the University 
+Academic Personal Tutor – broader issues relating to teaching and learning at the University
 http://www1.uwe.ac.uk/students/studysupport/academicpersonaltutor
 
 Online resources and learning support, together with advice from Library Services on managing references and improving your learning, writing and research skills are available, see: http://www1.uwe.ac.uk/students/studysupport/studyskills.aspx
 
 If you need help with a particular mathematical or statistical problem, then just pop along to an espressoMaths session, sit down at the espressoMaths table, and have a chat with one of the staff on duty; this person will be able to provide you with free user-friendly advice concerning your problem see: http://www1.uwe.ac.uk/students/studysupport/studyskills/mathematicsandstatistics.aspx
 
-The University also provides support to students relating to a range of matters through the Information Points see: 
+The University also provides support to students relating to a range of matters through the Information Points see:
 http://www1.uwe.ac.uk/students/informationpoints.aspx and specialist advisers.
 
 Advice on study-related issues including assessments can be found at
@@ -37,7 +37,7 @@ Prepare for life after university with advice and support from UWE.
 http://www1.uwe.ac.uk/students/careersandemployability.aspx Careers advice and guidance before, during and after your studies.
 
 Preparing to go on placement whilst at UWE:
-http://www1.uwe.ac.uk/students/careersandemployability/placements/findingaplacement.aspx - Advice on opportunities for placements or finding placements. 
+http://www1.uwe.ac.uk/students/careersandemployability/placements/findingaplacement.aspx - Advice on opportunities for placements or finding placements.
 
 Explore and practice faith and spirituality at UWE
 http://www1.uwe.ac.uk/students/healthandwellbeing/faithandspirituality.aspx
@@ -60,6 +60,5 @@ http://www1.uwe.ac.uk/students/studentexperience.aspx
 
 Link for information for the Students Union and how to become a student representative. http://www.uwesu.org/representation/
 
-Equality and Diversity 
+Equality and Diversity
 http://www.uwe.ac.uk/groups/equalityanddiversity/
-

@@ -1,6 +1,6 @@
 ![alt text][UWElogo]
 
-[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
+[UWElogo]: ./images/UWE_Bristol_logo.svg "UWE Bristol Logo"
 # Introduction
 
 ## Welcome to Creative Technology MSc at the University of the West of England
@@ -13,14 +13,21 @@ The course will equip you to work at the cutting edge of technology-orientated c
 
 Welcome from
 
-### Dr. Daniel Buzzo Programme Leader
-(daniel.buzzo@uwe.ac.uk) (https://people.uwe.ac.uk/Person/DanielBuzzo)
-### Dr. Natanya Ford (https://people.uwe.ac.uk/Person/NatanyaFord)
-### Dr. Dave Meckin (https://people.uwe.ac.uk/Person/DaveMeckin)
-### Dr. Chris Nash (https://people.uwe.ac.uk/Person/ChrisNash)
-### Dr. Michaela Palmer (https://people.uwe.ac.uk/Person/MicPalmer)
-### Prof. Praminda Caleb Solly (https://people.uwe.ac.uk/Person/PramindaCaleb-solly)
-### Luke Reed (https://people.uwe.ac.uk/Person/LukeReed)
+* Dr. Daniel Buzzo Programme Leader
+(daniel.buzzo@uwe.ac.uk)
+(https://people.uwe.ac.uk/Person/DanielBuzzo)
+* Dr. Natanya Ford
+(https://people.uwe.ac.uk/Person/NatanyaFord)
+* Dr. Dave Meckin
+(https://people.uwe.ac.uk/Person/DaveMeckin)
+* Dr. Chris Nash
+(https://people.uwe.ac.uk/Person/ChrisNash)
+* Dr. Michaela Palmer
+(https://people.uwe.ac.uk/Person/MicPalmer)
+* Prof. Praminda Caleb Solly
+(https://people.uwe.ac.uk/Person/PramindaCaleb-solly)
+* Luke Reed 
+(https://people.uwe.ac.uk/Person/LukeReed)
 and many more specialist staff
 
 Chief external examiners from other institutions are appointed to a suite of programmes to act independently and work with the Faculty in the management of threshold academic standards, ensuring parity of approach to assessment across all awards available.

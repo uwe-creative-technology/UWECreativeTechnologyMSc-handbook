@@ -1,6 +1,6 @@
 ![alt text][UWElogo]
 
-[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
+[UWElogo]: ./images/UWE_Bristol_logo.svg "UWE Bristol Logo"
 # Insurance Guidelines
 
 The University has a range of insurance policies which provide cover to both the University, it’s employees and to students.  The following guidelines provide summary information on the operation of key policies in the context of University activities.  If you required further information please contact J Elliott, Insurance and Data Protection Compliance Officer in Financial Services.

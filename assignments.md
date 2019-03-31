@@ -1,6 +1,6 @@
 ![alt text][UWElogo]
 
-[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
+[UWElogo]: ./images/UWE_Bristol_logo.svg "UWE Bristol Logo"
 # Assignments and marking
 
 ## Assessment
@@ -83,16 +83,19 @@ This short film has been made for students in order to explain the different sta
 alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
 
 
-## Plagiarism Advice (https://www1.uwe.ac.uk/students/studysupport/studyskills/readingandwriting/plagiarism.aspx)
+## Plagiarism Advice
+(https://www1.uwe.ac.uk/students/studysupport/studyskills/readingandwriting/plagiarism.aspx)
+
 The usual university strictures about plagiarism apply to this assignment. It is good practice in academic writing to reference correctly the work of others that you may draw upon for your own. Please help us to clearly distinguish your original efforts by so doing.
 If you use code from other sites, the sources must be referenced in your Bibliography. If you use any other site(s) as a source of ideas for your site, you must reference the source. If you copy code and/or ideas from another student's work, or even if you are helped by another student, you must reference/acknowledge the source.
 
 
 #### Assessment Offences
 
-In order to ensure that all students are assessed fairly and equitably, it is important that markers are able to be sure it is your own work which is being assessed and that all your assessed work is done within the University rules and regulations.  If a marker or invigilator believes that you have committed an assessment offence this will be reported and the allegation will have to be investigated.  The University take the committing of assessment offences very seriously.  Action is always taken to investigate and follow through any such cases that are reported.  The process and consequences can be found within the UWE Assessment Offences policy. 
+In order to ensure that all students are assessed fairly and equitably, it is important that markers are able to be sure it is your own work which is being assessed and that all your assessed work is done within the University rules and regulations.  If a marker or invigilator believes that you have committed an assessment offence this will be reported and the allegation will have to be investigated.  The University take the committing of assessment offences very seriously.  Action is always taken to investigate and follow through any such cases that are reported.  The process and consequences can be found within the UWE Assessment Offences policy.
 
 http://www1.uwe.ac.uk/students/academicadvice/assessments/assessmentoffences.aspx
+
 An assessment offence is defined by the University as ‘any action which has the potential to give a student an unfair advantage in an assessment.’  Plagiarism and collusion are examples of the use of unfair means of presenting work for assessment or of aiding another student to do so.
 
 *Plagiarism* – Demonstrating that you have read a wide range of material (books, journals or other sources) in writing a piece of coursework is essential, but so is ensuring that you acknowledge that work properly through correct referencing i.e. the naming of authors/sources and the use of paraphrasing, quotation marks or indented paragraphs.
@@ -100,4 +103,3 @@ An assessment offence is defined by the University as ‘any action which has th
 *Collusion* – You may be asked to work with other students on a project, in class or analysing data, it is essential that any work you hand in for assessment purposes is written up by you on an individual basis.  The text and diagrams / pictures etc. you use must be your own.  You must be particularly careful if you are sharing a computer with another student or passing information between yourself and others in an electronic format such as email that you do not use someone else’s words – or that they use your words.
 
 *Non-compliance* – it is important that you follow the instructions given to you by staff and adhere to the regulations of the University.  For example, non-compliance could include taking unauthorised papers or items into an examination room.
-

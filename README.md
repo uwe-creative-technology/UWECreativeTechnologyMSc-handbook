@@ -3,9 +3,9 @@ Handbook for UWE Creative Technology MSc program
 
  ### How to use this document:
  read online on github.com/uwe-creative-technology/UWECreativeTechnologyMSc-handbook, or download and read.
- 
+
  see these pages as .pdf format printable documents using gitprint.com - just substitute github.com in the URL above for gitprint.com
- 
+
  https://gitprint.com/uwe-creative-technology/UWECreativeTechnologyMSc-handbook
 
  ### How to contribute:
@@ -18,15 +18,18 @@ The content is laued up using markdown for quickstart in using markdown see:
 
 ----
 
-# UWE Creative Technology MSc 
+# UWE Creative Technology MSc
 ## Course Handbook 2018-19
 
 ![alt text][UWElogo]
 
-[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
+[UWElogo]: ./images/UWE_Bristol_logo.svg "UWE Bristol Logo"
 version : 1.0
-#### Programme Leader: <br/> Dr. Daniel Buzzo (daniel.buzzo@uwe.ac.uk)
-Contributors: dan buzzo
+#### Programme Leader:
+* Dr. Daniel Buzzo (daniel.buzzo@uwe.ac.uk)
+
+Contributors to this document:
+* Dan Buzzo,
 
 The handbook is designed to provide information relevant to the programme.  The information in the handbook may also be provided in a number of other electronic or paper sources and this document provides links to the definitive data sources wherever possible.
 

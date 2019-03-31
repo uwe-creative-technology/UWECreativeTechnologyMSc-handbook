@@ -1,6 +1,6 @@
 ![alt text][UWElogo]
 
-[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
+[UWElogo]: ./images/UWE_Bristol_logo.svg "UWE Bristol Logo"
 # Career destinations after the Creative Technology MSc
 On graduation, you will have the practical, analytic and interpersonal skills needed to work at all stages of the creative technology process.
 
