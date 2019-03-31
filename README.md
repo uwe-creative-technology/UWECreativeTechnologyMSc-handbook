@@ -14,7 +14,8 @@ The content is laued up using markdown for quickstart in using markdown see:
 
 ----
 
-# UWE Creative Technology MSc Course Handbook 2018-19
+# UWE Creative Technology MSc 
+## Course Handbook 2018-19
 
 ![alt text][UWElogo]
 
