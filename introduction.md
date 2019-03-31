@@ -22,6 +22,23 @@ Welcome from
 ### Luke Reed (https://people.uwe.ac.uk/Person/LukeReed)
 and many more specialist staff
 
+Chief external examiners from other institutions are appointed to a suite of programmes to act independently and work with the Faculty in the management of threshold academic standards, ensuring parity of approach to assessment across all awards available.
+
+You are asked to pay particular attention to assessment dates and ensure you check with your academic team if you are unsure when assessments are due.  Students are expected to be available during these periods and absence from scheduled assessments may have a significant impact on your studies.  Please take care to avoid these dates when planning any holidays.
+
+The academic year dates are published on the University website, see:
+http://www1.uwe.ac.uk/aboutus/termdates.aspx  
+
+
+## Communication
+
+The main communication channel used by the University and the Faculty is the UWE student portal, myUWE. The myUWE link appears at the top of the University staff and student intranet home page alongside that of the library and gives you access to the portal, where much of the information relevant to you will appear, including important announcements.  MyUWE gives you access to a wide range of course information, including links to Blackboard for modules you are currently studying.  Blackboard provides the main communication channel for module specific information and should be checked regularly for new content and announcements.
+
+Also from myUWE you can access your UWE student email account, which you are expected to check regularly (at least twice a week) as this is the email address that the University will use to contact you.  If you do not activate this account, or chose to automatically forward emails to a different email account, then the University will not be responsible if you miss important information such as details about classes, assessments, examinations, fees, registration etc.
+
+Please see http://info.uwe.ac.uk/myUWE/guidance/ for further information on all aspects of your myUWE portal.
+
+
 ## Visiting speakers
 Include Jack Hayward, Gravity Well Digital Agency(https://www.gravitywell.co.uk). Amanda Chambers FRSA (https://www.amandachambers.co.uk). Matt Glanfield @GlanFM(https://twitter.com/glanfm). Dave Martin, CX Partners (https://www.cxpartners.co.uk). Steve Symons, Glastonbury Festivals. Dr. Annie Tubadji (UWE Faculty of Business and Law). Prof Marc Hassenzahl (University of Siegen).   Dr Frank Nack (University of Amsterdam) amongst many others.
 
