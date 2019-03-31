@@ -1,3 +1,6 @@
+![alt text][UWElogo]
+
+[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
 # Career destinations after the Creative Technology MSc
 On graduation, you will have the practical, analytic and interpersonal skills needed to work at all stages of the creative technology process.
 
@@ -30,4 +33,3 @@ The BBC, Disney (Lyft) Studios, IBM, E3, The Alacrity Foundation, Ministry of De
 #### Job, portfolio and CV tips
  UWE Careers and employability [[https://www1.uwe.ac.uk/students/careersandemployability.aspx]]
  UWE Careers services [[https://www1.uwe.ac.uk/students/careersandemployability/careersservices/servicesforstudents.aspx]]
-

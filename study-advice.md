@@ -1,3 +1,6 @@
+![alt text][UWElogo]
+
+[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo" 
 # Study Advice and support
 The following links provide detailed information on study skill provision and UWE academic policy. In submitting your final submission for examination you agree that you have read the following guides linked to below:
 * Digital Media BSc Learning Policy:

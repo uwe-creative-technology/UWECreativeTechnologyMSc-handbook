@@ -1,3 +1,6 @@
+![alt text][UWElogo]
+
+[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
 # Assignments and marking
 
 ## Assessment
@@ -23,7 +26,7 @@ Full details of current regulations are here (https://www1.uwe.ac.uk/students/ac
 
 ## Marking rubrics
 The range of marking at Masters level is as follows, Note 50% is a pass, each individual assignment will guide you toward any specific marking criteria appropriate to the deliverable materials.
- 
+
 |  Mark | Status |Description |
 |-----|-----|-----|
 | 90-100| Pass  |Excellent, publishable, world class work.|
@@ -49,7 +52,7 @@ If you have a resit, this is shown in your academic record using a code. For exa
 * If the code starts with a ‘2’, that means it is your second attempt at the module. A ‘3’ would mean your third attempt and so on.
 
  ## Guidance and advice
- 
+
  UWE Bristol has developed an Assessment and Feedback Policy for all taught provision, including collaborative provision. The policy sets out the purpose of assessment and feedback, and lists a set of operational expectations supporting how assessment and feedback form a critical aspect of the learning process.
 
 Along with the policy, we have developed the Assessment and Feedback Operational Guide which covers the cycle of assessment from design, through to marking, moderation, review and enhancement.
@@ -60,8 +63,8 @@ The guide can be used by students and staff to help understand the cycle of asse
 * Articulation of assessment both as part of the learning process and as the means by which academic staff form judgements about the extent to which learning outcomes are met.
 * Ensure that students have parity of experience which underpins learning and progression.
 ### Principles of the Assessment and Feedback Operational Guide:
-Outlines the key stages of assessment and recognises the journey from design conception, marking and moderation to enhancement/review. 
-Promotes and facilitates the sharing of good practice across the University through a common framework and terminology. 
+Outlines the key stages of assessment and recognises the journey from design conception, marking and moderation to enhancement/review.
+Promotes and facilitates the sharing of good practice across the University through a common framework and terminology.
 Alignment with the QAA Quality Code.
 ### When is the policy applicable?
 The Assessment and Feedback Policy and Operational Guide are applicable in all circumstances to all taught provision including curriculum delivered by our collaborative partners.
@@ -69,18 +72,17 @@ The Assessment and Feedback Policy and Operational Guide are applicable in all c
 Below are the links to the Policy and Operational Guide documents:
 
 * Download the Assessment and Feedback Policy
-* Download the Assessment and Feedback Operational Guide 
+* Download the Assessment and Feedback Operational Guide
 * Download the Assessment and Feedback Policy FAQs
 
 #### Guidance for students
 This short film has been made for students in order to explain the different stages of assessment and feedback processes at UWE Bristol.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wT4uBzmtRHM
-" target="_blank"><img src="http://img.youtube.com/vi/wT4uBzmtRHM/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/wT4uBzmtRHM/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
 
 
 ## Plagiarism Advice (https://www1.uwe.ac.uk/students/studysupport/studyskills/readingandwriting/plagiarism.aspx)
 The usual university strictures about plagiarism apply to this assignment. It is good practice in academic writing to reference correctly the work of others that you may draw upon for your own. Please help us to clearly distinguish your original efforts by so doing.
 If you use code from other sites, the sources must be referenced in your Bibliography. If you use any other site(s) as a source of ideas for your site, you must reference the source. If you copy code and/or ideas from another student's work, or even if you are helped by another student, you must reference/acknowledge the source.
-

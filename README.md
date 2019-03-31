@@ -1,23 +1,26 @@
 # UWECreativeTechnologyMSc-handbook
-handbook for UWE Creative Technology MSc program
+Handbook for UWE Creative Technology MSc program
 
- ### How to use:
- read online here, or download and read. 
- 
+ ### How to use this document:
+ read online on https://github.com/uwe-creative-technology, or download and read.
+
  ### How to contribute:
  You can clone this repository and edit and request changes using github,
- 
- [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-  
- [markdown cheatsheet in .pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-  
- 
+The content is laued up using markdown for quickstart in using markdown see:
+ * [Adam-p markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+ * [GitHub markdown cheatsheet in .pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+
 ----
 
 # Welcome to Creative Technology MSc at the University of the West of England
 
-version : 0.01 
+![alt text][UWElogo]
 
+[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
+version : 0.01
+author: dan buzzo
 ## Contents
 1. [Introduction](introduction.md)
 3. [Regulations and academic procedures](regulations.md)
@@ -31,6 +34,3 @@ version : 0.01
 6. [Extra curricular course activities](extra-curricular.md)
 7. [Career Opportunites and future destinations](careers.md)
 8. [Study advice](study-advice.md)
-
-
-

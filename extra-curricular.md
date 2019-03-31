@@ -1,14 +1,22 @@
+
+
+
+![alt text][UWElogo]
+
+[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
 # Extra Curricular Opportunities in the Creative Technology MSc
 
 ## Field trips and exchanges
 
+![UWE Creative Technologies field trip to Hong Kong Field Design Institute](/images/hk-visit.jpg)
+
 We visit the Transmediale Digital Festival in Berlin in spring and have travelled to exchange with the Hong Kong Design Institute. We have also visited the School of Creative Media at City University, Hong Kong. Royal College of Art, London. The Mozilla Festival, for the open Internet movement, Ravensbourne College, London, and participate in the Web Dev Conference, Bristol.
 
-[![Hong Kong Field Trip video](http://img.youtube.com/vi/4WjYgvO2D0A/0.jpg)](http://www.youtube.com/watch?v=4WjYgvO2D0A)
+<!-- [![Hong Kong Field Trip video](http://img.youtube.com/vi/4WjYgvO2D0A/0.jpg)](http://www.youtube.com/watch?v=4WjYgvO2D0A) -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4WjYgvO2D0A
-" target="_blank"><img src="http://img.youtube.com/vi/4WjYgvO2D0A/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/4WjYgvO2D0A/0.jpg"
+alt="UWE Bristol Hong Kong Field trip video" width="640" height="480" border="10" /></a>
 
 
 ## Placements
@@ -31,11 +39,18 @@ UWE has a strong focus on industrial engagement and collaboration and has a prog
 
 ### [CodeWest](https://www.codewest.uk/about.html)
 Is a new enterprise studio of the Department of Computer Science and Creative Technologies at the University of the West of England. Students work on live projects for external and internal clients supported by staff. Several students in the Master program are creating projects in conjunction with CodeWest for external clients. They earn real wages and gain experience and valuable portfolio work while they study.
+
 ### PlayWest
 UWE Bristol’s in-house commercial games studio.
+
 ### Impulse
 UWE Bristol’s in house audio & music technologies innovation and enterprise studio which bridges students to their industry by enabling authentic professional experiences through paid, real-world projects
+![The Works at UWE Bristol](/images/theworks_uwe.gif)
+
 ### The Works and The Foundry
 The Works is a new learning zone on Frenchay Campus open to all students. Along with the Foundry space, a technology and innovation hub specially created to support entrepreneurship, it is part of the Employability and Enterprise Zone at UWE where students can collaborate on projects and meet commercial clients
+
 ### [LaunchSpace](http://www1.uwe.ac.uk/about/enterprise/launchspace.aspx?utm_source=LaunchSpace&utm_medium=Short-URL)
 Launch Space provides free desk space and business support for graduate start-up businesses in the heart of our University Enterprise Zone. Located in the new £16m University Enterprise Zone on Frenchay Campus, Launch Space provides physical incubator space and enterprise support for graduate start-up businesses.
+
+![FutureSpace at UWE Bristol](/images/uwe_future-space-bristol.jpg)

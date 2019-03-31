@@ -1,3 +1,6 @@
+![alt text][UWElogo]
+
+[UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"  
 # Course struture and rationale
 
 ## Learning and Teaching
@@ -18,7 +21,7 @@ Full-time students study for 60 credits each term. Contact learning includes six
 The full Masters course comprises 180 credits divided into three 60 credits stages: Postgraduate Certificate, Postgraduate Diploma, and Masters. Students work incrementally through the three stages and must pass all modules at each stage in order to progress to the next.
 Over the course of one year, you will study the following compulsory modules:
 
-Semester | Major Core module | Minor Core Module | Elective 
+Semester | Major Core module | Minor Core Module | Elective
 ------------ | ------------- |------------ | -------------
 one, Autumn | [Creative Technology Toolkit (30 Credit)](structure.md#creative-technologies-toolkit) |[CT Research (15 Credit)](structure.md#creative-technologies-research) | Elective one (15 Credit)
 two, Spring | [Creative Technology Research and Practice (30 Credit)](structure.md#creative-technologies-research-and-practice) |[Digital Connections (15 Credit)](structure.md#digital-connections-15-credit-core-module-semester-2) | Elective two (15 Credit)
