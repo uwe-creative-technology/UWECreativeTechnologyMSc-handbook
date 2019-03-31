@@ -13,7 +13,7 @@ The course will equip you to work at the cutting edge of technology-orientated c
 
 Welcome from
 
-* Dr. Daniel Buzzo Programme Leader
+* Dr. Daniel Buzzo Programme Leader ![d-buzzo](./images/staff/d-buzzo.jpg)
 (daniel.buzzo@uwe.ac.uk)
 (https://people.uwe.ac.uk/Person/DanielBuzzo)
 * Dr. Natanya Ford
