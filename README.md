@@ -23,7 +23,7 @@ The content is laid up using markdown (https://daringfireball.net/projects/markd
 
 ![alt text][UWElogo] "Optional title"
 
-[UWElogo]: ./images/UWE_Bristol_logo.svg "UWE Bristol Logo"
+[UWElogo]: (./images/UWE_Bristol_logo.svg "UWE Bristol Logo" "Optional title")
 version : 1.0
 #### Programme Leader:
 * Dr. Daniel Buzzo (daniel.buzzo@uwe.ac.uk)
