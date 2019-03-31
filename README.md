@@ -20,9 +20,9 @@ The content is laued up using markdown for quickstart in using markdown see:
 ![alt text][UWElogo]
 
 [UWElogo]: /images/UWE_Bristol_logo.svg "UWE Bristol Logo"
-version : 0.01
+version : 1.0
 #### Programme Leader: <br/> Dr. Daniel Buzzo (daniel.buzzo@uwe.ac.uk)
-Authors: dan buzzo
+Contributors: dan buzzo
 
 The handbook is designed to provide information relevant to the programme.  The information in the handbook may also be provided in a number of other electronic or paper sources and this document provides links to the definitive data sources wherever possible.
 
