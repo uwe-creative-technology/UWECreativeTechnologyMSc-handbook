@@ -8,9 +8,9 @@ Current Handbook for UWE Creative Technology MSc program
 
 read online on github.com/uwe-creative-technology/UWECreativeTechnologyMSc-handbook, or download and read.
 
-see these pages as .pdf format printable documents using gitprint.com - just substitute github.com in the URL above for gitprint.com
+see these pages as an up to date, searchable, printable online book using gitbook.com - 
 
-[https://gitprint.com/uwe-creative-technology/UWECreativeTechnologyMSc-handbook](https://gitprint.com/uwe-creative-technology/UWECreativeTechnologyMSc-handbook)
+**https://danb.gitbook.io/uwe-creative-technology-msc-handbook/**
 
 #### How to contribute:
 
