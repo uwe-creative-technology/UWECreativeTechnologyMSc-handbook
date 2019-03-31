@@ -23,8 +23,8 @@ Over the course of one year, you will study the following compulsory modules:
 
 Semester | Major Core module | Minor Core Module | Elective
 ------------ | ------------- |------------ | -------------
-one, Autumn | [Creative Technology Toolkit (30 Credit)](structure.md#creative-technologies-toolkit) |[CT Research (15 Credit)](structure.md#creative-technologies-research) | Elective one (15 Credit)
-two, Spring | [Creative Technology Research and Practice (30 Credit)](structure.md#creative-technologies-research-and-practice) |[Digital Connections (15 Credit)](structure.md#digital-connections-15-credit-core-module-semester-2) | Elective two (15 Credit)
+one, Autumn | [Creative Technology Toolkit (30 Credit)](structure.md#creative-technologies-toolkit) |[CT Research (15 Credit)](structure.md#creative-technologies-research) | [Elective one (15 Credit)](structure.md#elective--modules-you-must-choose-two-elective-modules-each-is-15-credits)
+two, Spring | [Creative Technology Research and Practice (30 Credit)](structure.md#creative-technologies-research-and-practice) |[Digital Connections (15 Credit)](structure.md#digital-connections-15-credit-core-module-semester-2) |  [Elective two (15 Credit)](structure.md#elective--modules-you-must-choose-two-elective-modules-each-is-15-credits)
 three, Summer | [Master Dissertation Project (60 Credit)](/structure.md#creative-technology-dissertation-60-credit-core-module-semester-3) ||
 
 ## Creative Technologies Toolkit (30 Credit Core module, semester 1)
