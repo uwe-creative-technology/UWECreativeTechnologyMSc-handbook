@@ -43,7 +43,7 @@ Please note that the electronic version of the handbook will be kept up to date 
 
 1. [Introduction](introduction.md)
 2. [Regulations and academic procedures](regulations.md)
- * [Student Representation](regulations.md#student-representation)
+   * [Student Representation](regulations.md#student-representation)
 3. [Structure](structure.md)
 4. [Assignments and marking](assignments.md)
    * [Marking rubrics](assignments.md#marking-rubrics)
