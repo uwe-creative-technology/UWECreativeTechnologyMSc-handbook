@@ -39,9 +39,12 @@ Search site content from previous years – E.G. coursework guidance Manage and 
 
 
 
-### RESOURCES AT FRENCHAY CAMPUS
+### Resources at Frenchay Campus
 The *Project Room* (2Q30) is a dynamic space designed to support individual and group project working, including four bookable booths with large screens for group work. It serves as a printing hub and home for binding machines and a laminator to help with presentation of portfolios, posters etc and is open 24/7 during term time.
 
 The *Project Room Desk*, open 9am to 5pm on weekdays, sells a variety of FET course related consumables for model making and sketching and loans out multimedia equipment e.g. cameras, HD camcorders, tripods, sound recorders and headphones, to Faculty of Environment and Technology (FET) students only.
 
 The *IT Service Desk* (2Q33) is the first point of contact for all staff and students of the Faculty requiring IT or AV support. The Desk is staffed by three full-time members of staff. They are chosen for their knowledge and experience of the Faculty’s computer systems and their customer service skills. They also receive training in the common problems, queries and requests encountered with the systems. If they are unable to provide immediate help with a query, they will refer it on to a more appropriate area of the IT support team.
+
+### Booking equipment
+You can see a range of the resources we have available on the Creative Technology WIKI pages https://wiki.uwecreativetechnology.com/index.php?title=Equipment_and_hardware and you can also browse and book equipment from the project room online. https://connect2.uwe.ac.uk/Connect2_FET_BNE/
