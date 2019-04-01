@@ -51,6 +51,7 @@ Please note that the electronic version of the handbook will be kept up to date 
    * [Guidance and advice](assignments.md#guidance-and-advice)
    * [Plagiarism](assignments.md#plagiarism)
 5. [Shared tools and discussion, information spaces](shared-resources.md)
+   * [Booking equipment](shared-resources.md#resources-at-frenchay-campus)
 6. [Extra curricular course activities](extra-curricular.md)
 7. [Career Opportunites and future destinations](careers.md)
 8. [Study advice](study-advice.md)
