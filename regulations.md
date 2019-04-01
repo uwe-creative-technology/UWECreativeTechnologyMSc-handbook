@@ -42,7 +42,7 @@ A Material change would be a change to the programme from the information we pro
 
 Where we wish to make a material change your rights are defined within the University’s Terms and Conditions \([https://www1.uwe.ac.uk/about/corporateinformation/policies.aspx](https://www1.uwe.ac.uk/about/corporateinformation/policies.aspx)\)
 
-![UWE SU Logo](./images/su-logo.jpeg)
+![UWE SU Logo](./images/su-logo-sml.gif)
 ## Student representation 
 
 The student representative system is highly valued by the Faculty as it provides students with the opportunity to make a difference to their programme and the wider University. Participation is also beneficial to students in terms of skills development and viewed positively by employers thereby boosting your CV. The system is supported by the Students’
