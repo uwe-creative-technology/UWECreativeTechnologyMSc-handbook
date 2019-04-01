@@ -42,3 +42,7 @@ A Material change would be a change to the programme from the information we pro
 
 Where we wish to make a material change your rights are defined within the University’s Terms and Conditions \([https://www1.uwe.ac.uk/about/corporateinformation/policies.aspx](https://www1.uwe.ac.uk/about/corporateinformation/policies.aspx)\)
 
+## Student representation 
+
+The student representative system is highly valued by the Faculty as it provides students with the opportunity to make a difference to their programme and the wider University. Participation is also beneficial to students in terms of skills development and viewed positively by employers thereby boosting your CV. The system is supported by the Students’
+Union who provide training for all Student Representatives. Further information is available from your programme leader or the Students Union webpages: http://www.uwesu.org/representation/reps/student-reps/.
