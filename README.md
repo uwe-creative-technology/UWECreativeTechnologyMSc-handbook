@@ -1,6 +1,6 @@
 # README
 
-## UWE CreativeTechnology MSc handbook
+## UWE CreativeTechnology MSc handbook 2019-20
 
 Current Handbook for UWE Creative Technology MSc program
 
