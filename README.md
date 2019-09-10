@@ -21,11 +21,11 @@ You can clone this repository and edit and request changes using github, The con
 
 ## UWE Creative Technology MSc
 
-### Course Handbook 2018-19
+### Course Handbook 2019-20
 
 ![UWE Bristol Logo](.gitbook/assets/uwe_bristol_logo.svg)
 
-version : 1.0
+version : 1.01
 
 **Programme Leader:**
 
